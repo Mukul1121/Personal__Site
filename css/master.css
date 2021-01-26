@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40415E;
+  line-height: 2;
+  font-size: 122%;
+}
+
+
+
+.top{
+  text-align: right;
+  padding-right: 5px;
+
+  padding-bottom: 20px;
+}
+
+.il{
+  font-size: 50px;
+  height: 160px;
+}
+
+h1 {
+  margin-top: 0;
+  color: #58b4ae;
+}
+
+h2 {
+  color: #58b4ae;
+}
+
+h3 {
+  color: #58b4ae;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+}
+
+.dw {
+  color: white;
+  padding-top: 20px;
+}
+
+hr {
+  border-style: dotted;
+  border-bottom-style: none;
+  border-width: 10px;
+  width: 10%;
+  margin: 100px auto;
+  border-color: black;
+  height: 0;
+}
+
+a {
+  color: #413c69;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px
+}
+
+.top-container {
+  padding-top: 150px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 375px
+}
+
+.a-student {
+  font-family: 'Lobster', cursive;
+}
+
+.guitar {
+  height: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+.wd {
+  height: 200px;
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.mr {
+  font-family: 'Patua One', cursive;
+  font-size: 5rem;
+  margin-top: 50px;
+}
+
+.middle-container {
+  padding-top: 20px
+}
+
+.a-student {
+  font-size: 2.5rem;
+}
+
+.tt {
+  height: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.nav-item{
+  padding-left: 30px;
+  color: #000;
+  padding-right: 10px;
+}
+
+.active{
+  padding-left: 110px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+
+
+.m{
+  padding-left: 5%;
+}
+
+
+.aa{
+  height: 2.75rem;
+  border-radius: 100%;
+}
+
+.profile-picture {
+  padding-top: 3%;
+  height: 20rem;
+  padding-bottom: 2%;
+  border-radius: 100%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  border-radius: 100px;
+   text-align: center;
+}
+
+
+marquee{
+  font-size: 1.25rem;
+  z-index: 1;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+}
+
+.il{
+
+}
+.m{
+  font-family: 'Courgette', cursive;
+}
